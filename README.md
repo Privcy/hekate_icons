@@ -1,2 +1,2 @@
-# hekate_icons
-Custom Hekate Icons
+# Wine Red Hekate Icons
+Custom Wine Red Themed Hekate Icons
